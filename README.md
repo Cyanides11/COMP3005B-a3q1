@@ -1,6 +1,6 @@
 # COMP3005B-a3q1
 
-Repo: https://github.com/Cyanides11/COMP3005B-a3
+Repo: https://github.com/Cyanides11/COMP3005B-a3q1
 Video: https://youtu.be/Joi86sVXsFU
 
 1. Application uses python and psycopg to interact with the database.
